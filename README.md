@@ -4,7 +4,7 @@
 
 #### Przygotuj projekty sklepu internetowego zawierającego następujące moduły:
 
-1. Projekt graficzny
+1. Projekt graficzny (wireframe)
    
 - logowanie/rejestracja
 - strona startowa/domowa
