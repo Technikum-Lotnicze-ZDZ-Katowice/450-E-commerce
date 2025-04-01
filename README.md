@@ -25,7 +25,8 @@
 - Szymon: Samochody
 - Oskar R.: Płyty CD
 
-4. TECHNOLOGIE:
+4.TECHNOLOGIE:
+
 HTML/CSS/JS/PHP
 mySQLi
 
