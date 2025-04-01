@@ -1,8 +1,11 @@
 # 450-E-commerce
 
-### PROKJEKT
+### PROKJEKT SKLEPU INTERNETOWEGO
 
-1. Przygotuj projekty sklepu internetowego zawierającego następujące moduły:
+#### Przygotuj projekty sklepu internetowego zawierającego następujące moduły:
+
+1. Projekt graficzny
+   
 - logowanie/rejestracja
 - strona startowa/domowa
 - strona kategorii
