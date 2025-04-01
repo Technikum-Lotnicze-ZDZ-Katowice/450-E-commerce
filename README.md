@@ -8,8 +8,9 @@
    
 - logowanie/rejestracja
 - strona startowa/domowa
-- strona kategorii
-- koszyk
+- strona kategorii (lista)
+- strona produktu
+- koszyk/podsumowanie
 - płatność
 
 2.ELEMENTY GRAFICZNE:
@@ -30,4 +31,11 @@
 HTML/CSS/JS/PHP
 mySQLi
 
+5. KOMPONENTY / FUNKCJONALNOŚCI
 
+- Produkt record
+- Dialog window
+- menu
+- search
+- breadcrumb
+- pagination
