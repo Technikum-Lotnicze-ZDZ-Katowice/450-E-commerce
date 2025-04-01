@@ -9,4 +9,9 @@
 - koszyk
 - płatność
 
-  2. 
+2.TEMATY:
+
+- Marek: Jachty
+- Krzysiek: części komputerowe
+- Szymon: Samochody
+- Oskar R.: Płyty CD
