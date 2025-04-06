@@ -49,7 +49,7 @@
 HTML/CSS/JS/PHP
 mySQLi
 
-5. KOMPONENTY / FUNKCJONALNOŚCI
+5.KOMPONENTY / FUNKCJONALNOŚCI
 
 - Produkt record
 - Dialog window
