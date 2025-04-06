@@ -10,19 +10,26 @@
   
   <img src="UI_01.png" width="540">
 - rejestracja
-  ![UI_01](UI_02.png)
+
+  <img src="UI_02.png" width="540">
 - reset hasła
-  ![UI_01](UI_03.png)
+
+  <img src="UI_03.png" width="540">
 - strona startowa/domowa
-  ![UI_01](UI_04.png)
+  
+  <img src="UI_04.png" width="540">
 - strona kategorii (lista)
-  ![UI_01](UI_05.png)
+
+  <img src="UI_05.png" width="540">
 - strona produktu
-  ![UI_01](UI_06.png)
+  
+  <img src="UI_06.png" width="540">
 - koszyk/podsumowanie
-  ![UI_01](UI_07.png)
+  
+  <img src="UI_07.png" width="540">
 - płatność
-  ![UI_01](UI_08.png)
+  
+  <img src="UI_08.png" width="540">
 
 2.ELEMENTY GRAFICZNE:
    
