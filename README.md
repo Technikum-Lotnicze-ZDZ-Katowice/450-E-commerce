@@ -1,6 +1,6 @@
 # 450-E-commerce
 
-## PROJEKT PROSTEGO SKLEPU INTERNETOWEGO
+# PROJEKT PROSTEGO SKLEPU INTERNETOWEGO
 
 #### Przygotuj projekty sklepu internetowego zawierającego następujące moduły:
 
@@ -72,5 +72,5 @@
 ## Koszyk
 
 
-#### !info!i
+# !info!i
 [Pasja informatyki - PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
