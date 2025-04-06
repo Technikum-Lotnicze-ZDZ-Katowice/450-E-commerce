@@ -8,7 +8,7 @@
    
 - logowanie
   
-  <img src="UI_01.png" width="500">
+  <img src="UI_01.png" width="540">
 - rejestracja
   ![UI_01](UI_02.png)
 - reset hasła
