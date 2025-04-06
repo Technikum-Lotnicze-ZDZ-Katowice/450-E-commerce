@@ -73,5 +73,5 @@
 
 
 # !iNFO
-[Pasja informatyki - PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
-https://v0.dev/
+- [Pasja informatyki - PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
+- https://v0.dev/
