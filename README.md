@@ -37,19 +37,21 @@
 - kolorystyka [Psychologia kolorów](https://fdc.org.pl/ciekawostki/psychologia-kolorow/#:~:text=W%20tym%20artykule%20zg%C5%82%C4%99bimy%20tajemnice%20psychologii%20kolor%C3%B3w%2C%20odkrywaj%C4%85c,sposoby%20na%20wykorzystanie%20ich%20mocy%20w%20codziennym%20%C5%BCyciu.)
 - Hero section + CTA - [40 inspiring hero images examples](https://www.justinmind.com/blog/inspiring-hero-image-websites/)
 
-3.TEMATY:
+3. Dodaj podstawowe elementy graficzne do wireframe'ów.
+
+4.TEMATY:
 
 - Marek: Jachty
 - Krzysiek: części komputerowe
 - Szymon: Samochody
 - Oskar R.: Płyty CD
 
-4.TECHNOLOGIE:
+5.TECHNOLOGIE:
 
 HTML/CSS/JS/PHP
 mySQLi
 
-5.KOMPONENTY / FUNKCJONALNOŚCI
+6.KOMPONENTY / FUNKCJONALNOŚCI
 
 - Produkt record
 - Dialog window
