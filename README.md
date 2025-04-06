@@ -57,3 +57,10 @@ mySQLi
 - search
 - breadcrumb
 - pagination
+
+<hr>
+
+## Logowanie/Rejestracja (autoryzacja/autentyfikacja)
+
+#### Info
+[Pasja informatyki - PHP (BACK-END)]
