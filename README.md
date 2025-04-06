@@ -7,7 +7,7 @@
 1.Projekt graficzny (wireframe)
    
 - logowanie
-  ![UI_01](UI_01.png =250x)
+  ![UI_01](/UI_01.png =250x)
 - rejestracja
   ![UI_01](UI_02.png)
 - reset hasła
