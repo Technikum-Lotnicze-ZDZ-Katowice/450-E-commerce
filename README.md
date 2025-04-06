@@ -7,6 +7,7 @@
 1.Projekt graficzny (wireframe)
    
 - logowanie/rejestracja
+  ![UI_01](UI_01.png)
 - strona startowa/domowa
 - strona kategorii (lista)
 - strona produktu
