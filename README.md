@@ -66,6 +66,8 @@
 <hr>
 
 ## Logowanie/Rejestracja (autoryzacja/autentyfikacja)
+## Struktura danych (baza danych)
+
 
 #### Info
 [Pasja informatyki - PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
