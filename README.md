@@ -63,4 +63,4 @@ mySQLi
 ## Logowanie/Rejestracja (autoryzacja/autentyfikacja)
 
 #### Info
-[Pasja informatyki - PHP (BACK-END)]
+[Pasja informatyki - PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
