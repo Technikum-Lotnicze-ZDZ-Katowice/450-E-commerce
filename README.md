@@ -33,7 +33,7 @@
 
 2.ELEMENTY GRAFICZNE:
    
-- logo
+- logo [Create a Professional Brand With this Free AI Logo Generator (Vector)](https://www.youtube.com/watch?v=8hQLld0xFao)
 - kolorystyka [Psychologia kolorów](https://fdc.org.pl/ciekawostki/psychologia-kolorow/#:~:text=W%20tym%20artykule%20zg%C5%82%C4%99bimy%20tajemnice%20psychologii%20kolor%C3%B3w%2C%20odkrywaj%C4%85c,sposoby%20na%20wykorzystanie%20ich%20mocy%20w%20codziennym%20%C5%BCyciu.)
 - Hero section + CTA
 
