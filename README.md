@@ -67,6 +67,9 @@
 
 ## Logowanie/Rejestracja (autoryzacja/autentyfikacja)
 ## Struktura danych (baza danych)
+## Upload plików
+## Wyszukiwanie / sortowanie / paginacja
+## Koszyk
 
 
 #### Info
