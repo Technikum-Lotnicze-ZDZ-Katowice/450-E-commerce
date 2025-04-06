@@ -1,4 +1,4 @@
-# 450-E-commerce
+# 450 e-commerce
 
 # PROJEKT PROSTEGO SKLEPU INTERNETOWEGO
 
