@@ -72,5 +72,5 @@
 ## Koszyk
 
 
-#### !info!
+#### !info!i
 [Pasja informatyki - PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
