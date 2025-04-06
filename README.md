@@ -6,13 +6,22 @@
 
 1.Projekt graficzny (wireframe)
    
-- logowanie/rejestracja
+- logowanie
   ![UI_01](UI_01.png)
+- rejestracja
+  ![UI_01](UI_02.png)
+- reset hasła
+  ![UI_01](UI_03.png)
 - strona startowa/domowa
+  ![UI_01](UI_04.png)
 - strona kategorii (lista)
+  ![UI_01](UI_05.png)
 - strona produktu
+  ![UI_01](UI_06.png)
 - koszyk/podsumowanie
+  ![UI_01](UI_07.png)
 - płatność
+  ![UI_01](UI_08.png)
 
 2.ELEMENTY GRAFICZNE:
    
