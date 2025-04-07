@@ -45,6 +45,8 @@
 - Krzysiek: części komputerowe
 - Szymon: Samochody
 - Oskar R.: Płyty CD
+- Spotrtswear
+- 
 
 5.TECHNOLOGIE:
 
