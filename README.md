@@ -45,8 +45,9 @@
 - Krzysiek: części komputerowe
 - Szymon: Samochody
 - Oskar R.: Płyty CD
-- Spotrtswear
-- 
+- Tomek: Spotrtswear
+- Nazar: Czekolada
+- Maks: Gry komputerowe
 
 5.TECHNOLOGIE:
 
