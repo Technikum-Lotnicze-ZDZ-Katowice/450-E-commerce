@@ -74,11 +74,11 @@
 
 ### 8. Back end [4h]
 
-## Logowanie/Rejestracja (autoryzacja/autentyfikacja)
-## Struktura danych (baza danych)
-## Upload plików
-## Wyszukiwanie / sortowanie / paginacja
-## Koszyk
+- Logowanie/Rejestracja (autoryzacja/autentyfikacja)
+- Struktura danych (baza danych)
+- Upload plików
+- Wyszukiwanie / sortowanie / paginacja
+- Koszyk
 
 
 # !iNFO
