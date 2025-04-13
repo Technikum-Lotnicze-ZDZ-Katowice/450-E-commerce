@@ -67,7 +67,7 @@
 - przygotuj publiczne repozytorium
 - stwórz prototyp strony startowej (tylko tytuły sekcji) i zapisz jako index.html
 - opublikuj prototyp w Github Pages
-- dodaj podstrony HTML/CSS
+- dodaj podstrony i uzupełnij brakujące elementy - HTML/CSS
 - uaktualnij repozytorium i opublikowaną stronę
 
 <hr>
