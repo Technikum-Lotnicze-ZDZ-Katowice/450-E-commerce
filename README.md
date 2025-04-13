@@ -6,12 +6,10 @@
 
 ### 1.Projekt graficzny (wireframe) - [3h]
    
-- logowanie
+- logowanie/rejestracja
   
-  <img src="UI_01.png" width="460">
-- rejestracja
-
-  <img src="UI_02.png" width="460">
+  <img src="UI_01.png" width="460"> <img src="UI_02.png" width="460">
+  
 - reset hasła
 
   <img src="UI_03.png" width="460">
