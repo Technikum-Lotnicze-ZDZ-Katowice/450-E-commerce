@@ -13,20 +13,16 @@
 - reset hasła
 
   <img src="UI_03.png" width="460">
-- strona startowa/domowa
+
+- strona startowa/domowa, strona kategorii (lista), strona produktu
   
   <img src="UI_04.png" width="460">
-- strona kategorii (lista)
-
   <img src="UI_05.png" width="460">
-- strona produktu
-  
   <img src="UI_06.png" width="460">
-- koszyk/podsumowanie
+
+- koszyk/podsumowanie, płatność
   
-  <img src="UI_07.png" width="460">
-- płatność
-  
+  <img src="UI_07.png" width="460">  
   <img src="UI_08.png" width="460">
 
 ### 2.ELEMENTY GRAFICZNE: [2h]
