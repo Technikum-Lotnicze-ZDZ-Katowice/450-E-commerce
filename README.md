@@ -63,7 +63,7 @@
 - breadcrumb
 - pagination
 
-### 7.Prototyp Front end HTML/CSS [4h]
+### 7.Prototyp Front end HTML/CSS [3h]
 - przygotuj publiczne repozytorium
 - stwórz prototyp strony startowej (tylko tytuły sekcji) i zapisz jako index.html
 - opublikuj prototyp w Github Pages
