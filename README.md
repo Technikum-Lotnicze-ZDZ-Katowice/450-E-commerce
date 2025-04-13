@@ -14,9 +14,12 @@
 
   <img src="UI_03.png" width="460">
 
-- strona startowa/domowa, strona kategorii (lista), strona produktu
+- strona startowa/domowa, 
   
   <img src="UI_04.png" width="460">
+
+- strona kategorii (lista), strona produktu
+- 
   <img src="UI_05.png" width="460">
   <img src="UI_06.png" width="460">
 
