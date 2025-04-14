@@ -45,7 +45,7 @@
 - Tomek: Spotrtswear
 - Nazar: Czekolada
 - Maks: Gry komputerowe
-- Merch growy
+- Mateusz: Merch growy
 
 ### 5.TECHNOLOGIE:
 
