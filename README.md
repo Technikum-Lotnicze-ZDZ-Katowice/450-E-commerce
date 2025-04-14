@@ -85,5 +85,6 @@
 - [Pasja informatyki - PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
 
 # TOOLS
-  
-- https://v0.dev/
+- [https://v0.dev/](https://v0.dev/)
+- [figma.com](https://www.figma.com/)
+- [penpot.com](https://penpot.app/)
