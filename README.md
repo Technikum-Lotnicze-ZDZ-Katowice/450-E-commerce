@@ -40,11 +40,12 @@
 
 - Marek: Jachty
 - Krzysiek: części komputerowe
-- Szymon: Samochody
+- Szymon: Samochody 
 - Oskar R.: Płyty CD - https://oskarrutkowski7.github.io/metalvault/
+- Oskar L.: Książki - https://osakr1109.github.io/swiatkksiazek/
 - Tomek: Spotrtswear
-- Nazar: Czekolada
-- Maks: Gry komputerowe
+- Nazar: Czekolada - 
+- Maks: Gry komputerowe - https://maksymiliankl.github.io/htmlplik/mx.html
 - Mateusz: Merch growy
 
 ### 5.TECHNOLOGIE:
