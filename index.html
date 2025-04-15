@@ -4,30 +4,26 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
     <style>
-        html, body{
-            height:100%;
-        }
-        * {
-            margin:0;
-            padding:0;
-            box-sizing:border-box;
-        }
-        body{
-            display:grid;
-            place-content:center;
-            background:red;
+        section{
+            border:1px solid var(--main-midgray-color);
+            /* margin:2em; */
         }
     </style>
 </head>
 <body>
     <main class="main">
-        <header>Sklep header
-            <a href="subpages/login.html">Zaloguj się</a>
-        </header>
-        <section id="hero"><h1>Hero</h1></section>
-        <section id="featured">Featured</section>
-        <footer>Footer</footer>
+        <div class="headercontainer">
+            <header>Sklep header
+                <a href="subpages/login.html">Zaloguj się</a>
+            </header>
+        </div>
+            <div class="container">
+            <section id="hero"><h1>Hero</h1></section>
+            <section id="featured">Featured</section>
+        </div>
+            <footer class="container">Footer</footer>
     </main>
 </body>
 </html>

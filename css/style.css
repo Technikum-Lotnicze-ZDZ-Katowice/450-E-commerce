@@ -73,3 +73,40 @@ a{
 a:hover{
     text-decoration:underline;
 }
+main{
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+header, footer{
+    height:100px;
+    border:1px solid red;
+    width:600px;
+    margin:auto;
+}
+
+.header{
+    position:fixed;
+    top:0;
+}
+.container{
+    border:1px solid green;
+    width:100%;
+    margin:auto;
+}
+.headercontainer{
+
+}
+
+@media (min-width: 600px) {
+    .container{
+        width:600px;
+    }
+}
+
+@media (min-width: 800px) {
+}
+
+@media (min-width: 1024px) {
+}
