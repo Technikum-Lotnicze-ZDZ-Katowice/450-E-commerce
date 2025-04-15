@@ -6,6 +6,9 @@ html, body{
     padding:0;
     box-sizing:border-box;
 }
+body{
+    background:red;
+}
 .centered{
     display:grid;
     place-content:center;
