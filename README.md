@@ -41,7 +41,7 @@
 - Marek: Jachty
 - Krzysiek: części komputerowe
 - Szymon: Samochody
-- Oskar R.: Płyty CD
+- Oskar R.: Płyty CD - https://oskarrutkowski7.github.io/metalvault/
 - Tomek: Spotrtswear
 - Nazar: Czekolada
 - Maks: Gry komputerowe
