@@ -41,8 +41,8 @@
 - Marek: Jachty
 - Krzysiek: części komputerowe
 - Szymon: Samochody 
-- Oskar R.: Płyty CD - https://oskarrutkowski7.github.io/metalvault/
-- Oskar L.: Książki - https://osakr1109.github.io/swiatkksiazek/
+- [Oskar R.](https://github.com/oskarrutkowski7/metalvault/): Płyty CD - https://oskarrutkowski7.github.io/metalvault/
+- [Oskar L.](https://github.com/osakr1109/swiatkksiazek): Książki - https://osakr1109.github.io/swiatkksiazek/
 - Tomek: Spotrtswear
 - Nazar: Czekolada - 
 - Maks: Gry komputerowe - https://maksymiliankl.github.io/htmlplik/mx.html
