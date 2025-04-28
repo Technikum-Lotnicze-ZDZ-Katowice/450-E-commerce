@@ -82,6 +82,10 @@
 - Wyszukiwanie / sortowanie / paginacja
 - Koszyk
 
+### 9. Publikacja
+
+
+PHPMYADMIN - https://szczeszek.home.pl/sql
 
 # !iNFO
 - [Pasja informatyki - PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
