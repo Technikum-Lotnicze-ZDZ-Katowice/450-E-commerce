@@ -85,7 +85,7 @@
 ### 9. Publikacja 2025.04.28
 
 WYMAGANIA:
-- opublikowane na sewerze zdalnym min 2 podstrony (w tym system logowania/rejestracji i jedna dodatkowa podstrona) uywające działające skrypty PHP
+- opublikowane na sewerze zdalnym min 2 podstrony (w tym system logowania/rejestracji i jedna dodatkowa podstrona) uywające działających skryptów PHP
 - dostęp do kodu na github
 
 ![Uczentl](uczentl.PNG)
