@@ -84,7 +84,7 @@
 
 ### 9. Publikacja
 
-
+![Uczentl](uczentl.png)
 PHPMYADMIN - https://szczeszek.home.pl/sql
 
 # !iNFO
