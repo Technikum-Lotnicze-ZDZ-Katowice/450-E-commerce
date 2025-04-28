@@ -88,6 +88,8 @@
 
 PHPMYADMIN - https://szczeszek.home.pl/sql
 
+![uczniowie](uczniowie.PNG)
+
 # !iNFO
 - [Pasja informatyki - PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
 
