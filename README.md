@@ -46,7 +46,7 @@
 - Tomek: Spotrtswear
 - Nazar: Czekolada - https://nazarboikod.github.io/chocopage/
 - Maks: Gry komputerowe - https://maksymiliankl.github.io/htmlplik/mx.html
-- Mateusz: Merch growy - https://mateusz-muzyka.github.io/strona3W/web-content
+- Mateusz: (https://mateusz-muzyka.github.io/strona3W/web-content ) Merch growy - ()
 
 ### 5.TECHNOLOGIE:
 
