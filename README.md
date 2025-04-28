@@ -82,7 +82,11 @@
 - Wyszukiwanie / sortowanie / paginacja
 - Koszyk
 
-### 9. Publikacja
+### 9. Publikacja 2025.04.28
+
+WYMAGANIA:
+- opublikowane na sewerze zdalnym min 2 dstrony (w tym system logowania/rejestracji i jedna dodatkowa podstrona)
+- dostęp do kodu na github
 
 ![Uczentl](uczentl.PNG)
 
