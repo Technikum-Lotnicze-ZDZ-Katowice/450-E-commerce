@@ -40,7 +40,7 @@
 
 - Marek: Jachty
 - Krzysiek: części komputerowe
-- Szymon: Samochody: https://osakr1109.github.io/szymonwe.github.io/samochody
+- [Szymon](https://github.com/szymonwe): Samochody: https://szymonwe.github.io/samochody
 - [Oskar R.](https://github.com/oskarrutkowski7/metalvault/): Płyty CD - https://oskarrutkowski7.github.io/metalvault/
 - [Oskar L.](https://github.com/osakr1109/swiatkksiazek): Książki - https://osakr1109.github.io/swiatkksiazek/
 - [Tomek](https://github.com/komareq1): Spotrtswear : https://komareq1.github.io/TomekK/
