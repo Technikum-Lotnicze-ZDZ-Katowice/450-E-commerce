@@ -94,6 +94,12 @@ PHPMYADMIN - https://szczeszek.home.pl/sql
 
 ![uczniowie](uczniowie.PNG)
 
+### 10. Dashboard page 2025.04.29
+- dodanie projektu graficznego do katalogu udostępnionego
+- wykonanie podstrony w PHP uwzględniającej nastepujące funkcjonalności (co najmniej):
+   strona zabezpieczona (tylko dla admina)
+  dodawanie produktów (nazwa art., kategoria art. cena, ilośćw magazynie, cena, zdjęcie/zdjęcia)
+
 # !iNFO
 - [Pasja informatyki - PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
 
