@@ -97,10 +97,11 @@ PHPMYADMIN - https://szczeszek.home.pl/sql
 ### 10. Dashboard page 2025.04.29
 - dodanie projektu graficznego do katalogu udostępnionego
 - wykonanie podstrony w PHP uwzględniającej nastepujące funkcjonalności (co najmniej):
-   strona zabezpieczona (tylko dla admina)
-  dodawanie produktów (nazwa art., kategoria art. cena, ilośćw magazynie, cena, zdjęcie/zdjęcia)
-  usuwanie produktów
-  zaznaczanie grupy produktów (operacje na grupie)
+   - strona zabezpieczona (tylko dla admina)
+   - dodawanie produktów (nazwa art., kategoria art. cena, ilośćw magazynie, cena, zdjęcie/zdjęcia)
+   - usuwanie produktów
+   - zaznaczanie grupy produktów (operacje na grupie)
+   - sortowanie wg nazwy i wg ceny
   
 ![Dashboard](Dashboard.png)
 
