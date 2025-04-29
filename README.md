@@ -99,6 +99,11 @@ PHPMYADMIN - https://szczeszek.home.pl/sql
 - wykonanie podstrony w PHP uwzględniającej nastepujące funkcjonalności (co najmniej):
    strona zabezpieczona (tylko dla admina)
   dodawanie produktów (nazwa art., kategoria art. cena, ilośćw magazynie, cena, zdjęcie/zdjęcia)
+  usuwanie produktów
+  zaznaczanie grupy produktów (operacje na grupie)
+  
+![Dashboard](Dashboard.png)
+
 
 # !iNFO
 - [Pasja informatyki - PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
