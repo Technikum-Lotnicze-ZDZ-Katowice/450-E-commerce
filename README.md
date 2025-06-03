@@ -108,6 +108,7 @@ PHPMYADMIN - https://szczeszek.home.pl/sql
 
 # !iNFO
 - [Pasja informatyki - PHP (BACK-END)](https://miroslawzelent.pl/kurs-php/)
+- XAMPP fix - https://www.thewindowsclub.com/apache-not-starting-on-xampp-control-panel
 
 # TOOLS
 - [https://v0.dev/](https://v0.dev/)
