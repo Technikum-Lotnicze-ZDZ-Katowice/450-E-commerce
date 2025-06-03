@@ -38,7 +38,7 @@
 
 ### 4.TEMATY:
 
-- Marek: Jachty
+- Marek: [Jachty](https://markowskky.github.io/stronayacht): https://markowskky.github.io/stronayacht
 - [Krzysiek](https://github.com/krzychu7654): części komputerowe: https://krzychu7654.github.io/ecommerce/
 - [Szymon](https://github.com/szymonwe): Samochody: https://szymonwe.github.io/samochody
 - [Oskar R.](https://github.com/oskarrutkowski7/metalvault/): Płyty CD - https://oskarrutkowski7.github.io/metalvault/
