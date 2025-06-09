@@ -48,6 +48,19 @@
 - [Maks (Github)](https://github.com/maksymilinkl): [UI na Github pages](https://maksymiliankl.github.io/htmlplik/mx.html), Sklep: Gry komputerowe - ()
 - [Mateusz (Github)](https://github.com/mateusz-muzyka): [UI na Github Pages](https://mateusz-muzyka.github.io/strona3W/web-content ), Sklep: Merch growy - (http://animateria.pl/uczentl/mateusz/Merch4you/strona3W/web-content)
 
+Kryteria oceny:
+PAI: 
+- rejestracja/logowanie
+- nadanie uprawnień admina
+- dodanie produktu do bazy danych (admin)
+- dodanie produktu do koszyka (user)
+- wyszukiwanie
+- filtrowanie/sortowanie/paginacja
+
+PITSI:
+- komponenty z pkt. 6
+- zgodność wyglądu sklepu z projektem graficznym
+
 ### 5.TECHNOLOGIE:
 
 - HTML
