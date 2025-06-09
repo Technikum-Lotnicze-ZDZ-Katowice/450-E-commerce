@@ -71,12 +71,14 @@ PITSI:
 
 ### 6.KOMPONENTY / FUNKCJONALNOŚCI
 
-- Produkt record
-- Dialog window
-- menu
-- search
-- breadcrumb
-- pagination
+- Login/Register Page
+- Produkt page
+- Cart Page
+- Dashboard Page
+- User Menu
+- Search
+- Breadcrumb
+- Pagination
 
 ### 7.Prototyp Front end HTML/CSS [3h]
 - przygotuj publiczne repozytorium
