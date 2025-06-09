@@ -61,6 +61,8 @@ PITSI:
 - komponenty z pkt. 6
 - zgodność wyglądu sklepu z projektem graficznym
 
+## OSTATECZNY TERMIN PUBLIKOWANIA PRAC: 10.06.2025 godz 7.10
+
 ### 5.TECHNOLOGIE:
 
 - HTML
