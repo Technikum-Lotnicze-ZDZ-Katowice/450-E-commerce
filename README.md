@@ -45,7 +45,7 @@
 - [Oskar L.](https://github.com/osakr1109/swiatkksiazek): Książki - https://osakr1109.github.io/swiatkksiazek/
 - [Tomek](https://github.com/komareq1): Spotrtswear : https://komareq1.github.io/TomekK/
 - Nazar: Czekolada - https://nazarboikod.github.io/chocopage/
-- Maks: Gry komputerowe - https://maksymiliankl.github.io/htmlplik/mx.html
+- [Maks (Github)](https://github.com/maksymilinkl): [UI na Github pages](https://maksymiliankl.github.io/htmlplik/mx.html), Sklep: Gry komputerowe - ()
 - [Mateusz (Github)](https://github.com/mateusz-muzyka): [UI na Github Pages](https://mateusz-muzyka.github.io/strona3W/web-content ), Sklep: Merch growy - (http://animateria.pl/uczentl/mateusz/Merch4you/strona3W/web-content)
 
 ### 5.TECHNOLOGIE:
