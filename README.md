@@ -38,11 +38,11 @@
 
 ### 4.TEMATY:
 
-- [Marek (Github)](https://github.com/markowskky): [UI na Github Pages](https://markowskky.github.io/stronayacht), Sklep: Jachty - ()
+- [Marek (Github)](https://github.com/markowskky): [UI na Github Pages](https://markowskky.github.io/stronayacht), Sklep: Jachty - (http://animateria.pl/uczentl/marek/yachty/index.php)
 - [Krzysiek (Github)](https://github.com/krzychu7654): [UI na Github Pages](https://krzychu7654.github.io/ecommerce/) Sklep: Części komputerowe - ()
 - [Szymon (Github)](https://github.com/szymonwe): : [UI na Github Pages](https://szymonwe.github.io/samochody), Sklep: Samochody - ()
 - [Oskar R. (Github)](https://github.com/oskarrutkowski7/metalvault/): [UI na Github Pages](https://oskarrutkowski7.github.io/metalvault/), Sklep: Płyty CD - ()
-- [Oskar L. (github)](https://github.com/osakr1109/swiatkksiazek): [UI na Github Pages](https://osakr1109.github.io/swiatkksiazek/), Książki - ()
+- [Oskar L. (github)](https://github.com/osakr1109/swiatkksiazek): [UI na Github Pages](https://osakr1109.github.io/swiatkksiazek/), Książki - (http://animateria.pl/uczentl/oskarl/ksisk/index.html)
 - [Tomek (Github)](https://github.com/komareq1): [UI na Github Pages](https://komareq1.github.io/TomekK/), Sklep: Sportswear - () 
 - [Nazar (Github)](https://github.com/nazarboikod): [UI na Github Pages](https://nazarboikod.github.io/chocopage/), Sklep: Czekolada - ()
 - [Maks (Github)](https://github.com/maksymilinkl): [UI na Github pages](https://maksymiliankl.github.io/htmlplik/mx.html), Sklep: Gry komputerowe - ()
