@@ -38,13 +38,13 @@
 
 ### 4.TEMATY:
 
-- Marek: [Jachty](https://markowskky.github.io/stronayacht): https://markowskky.github.io/stronayacht
-- [Krzysiek](https://github.com/krzychu7654): części komputerowe: https://krzychu7654.github.io/ecommerce/
-- [Szymon](https://github.com/szymonwe): Samochody: https://szymonwe.github.io/samochody
-- [Oskar R.](https://github.com/oskarrutkowski7/metalvault/): Płyty CD - https://oskarrutkowski7.github.io/metalvault/
-- [Oskar L.](https://github.com/osakr1109/swiatkksiazek): Książki - https://osakr1109.github.io/swiatkksiazek/
-- [Tomek](https://github.com/komareq1): Spotrtswear : https://komareq1.github.io/TomekK/
-- Nazar: Czekolada - https://nazarboikod.github.io/chocopage/
+- [Marek (Github)](https://github.com/markowskky): [UI na Github Pages](https://markowskky.github.io/stronayacht), Sklep: Jachty - ()
+- [Krzysiek (Github)](https://github.com/krzychu7654): [UI na Github Pages](https://krzychu7654.github.io/ecommerce/) Sklep: Części komputerowe - ()
+- [Szymon (Github)](https://github.com/szymonwe): : [UI na Github Pages](https://szymonwe.github.io/samochody), Sklep: Samochody - ()
+- [Oskar R. (Github)](https://github.com/oskarrutkowski7/metalvault/): [UI na Github Pages](https://oskarrutkowski7.github.io/metalvault/), Sklep: Płyty CD - ()
+- [Oskar L. (github)](https://github.com/osakr1109/swiatkksiazek): [UI na Github Pages](https://osakr1109.github.io/swiatkksiazek/), Książki - ()
+- [Tomek (Github)](https://github.com/komareq1): [UI na Github Pages](https://komareq1.github.io/TomekK/), Sklep: Spotrtswear - () 
+- [Nazar (Github)](https://github.com/nazarboikod): [UI na Github Pages](https://nazarboikod.github.io/chocopage/), Sklep: Czekolada - ()
 - [Maks (Github)](https://github.com/maksymilinkl): [UI na Github pages](https://maksymiliankl.github.io/htmlplik/mx.html), Sklep: Gry komputerowe - ()
 - [Mateusz (Github)](https://github.com/mateusz-muzyka): [UI na Github Pages](https://mateusz-muzyka.github.io/strona3W/web-content ), Sklep: Merch growy - (http://animateria.pl/uczentl/mateusz/Merch4you/strona3W/web-content)
 
