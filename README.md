@@ -44,7 +44,7 @@
 - [Oskar R. (Github)](https://github.com/oskarrutkowski7/metalvault/): [UI na Github Pages](https://oskarrutkowski7.github.io/metalvault/), Sklep: Płyty CD - ()
 - [Oskar L. (github)](https://github.com/osakr1109/swiatkksiazek): [UI na Github Pages](https://osakr1109.github.io/swiatkksiazek/), Książki - (http://animateria.pl/uczentl/oskarl/ksisk/index.html)
 - [Tomek (Github)](https://github.com/komareq1): [UI na Github Pages](https://komareq1.github.io/TomekK/), Sklep: Sportswear - () 
-- [Nazar (Github)](https://github.com/nazarboikod): [UI na Github Pages](https://nazarboikod.github.io/chocopage/), Sklep: Czekolada - ()
+- [Nazar (Github)](https://github.com/nazarboikod): [UI na Github Pages](https://nazarboikod.github.io/chocopage/), Sklep: Czekolada - (http://animateria.pl/uczentl/nazar/chocopage)
 - [Maks (Github)](https://github.com/maksymiliankl): [UI na Github pages](https://maksymiliankl.github.io/htmlplik/mx.html), Sklep: Gry komputerowe - (http://animateria.pl/uczentl/max/shopg)
 - [Mateusz (Github)](https://github.com/mateusz-muzyka): [UI na Github Pages](https://mateusz-muzyka.github.io/strona3W/web-content ), Sklep: Merch growy - (http://animateria.pl/uczentl/mateusz/Merch4you/strona3W/web-content)
 
